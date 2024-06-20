@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ezra
-- 👀 I’m interested in ... software development
+- 👀 I’m interested in ... Software development
 - 🌱 I’m currently learning ... Tailwindcss
 - 💞️ I’m looking to collaborate on ... Web development
 - 📫 How to reach me ... ezravos@hotmail.com
